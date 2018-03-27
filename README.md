@@ -1,4 +1,4 @@
-# website for front end web development
+# website for final year project
 
 # references
 
